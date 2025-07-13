@@ -4,7 +4,7 @@ A beginner-friendly command-line banking system written in Python.
 This project allows users to deposit money, withdraw money, and check their current account balance.
 
 ## Features
-- Deposit money
+- Deposit money 
 - Withdraw money (with balance check)
 - Show current account balance
 - Menu-driven loop system
